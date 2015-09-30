@@ -92,3 +92,20 @@ font-weight: bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
+#drinksMenuTxt {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+#searchAndCheck {
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+    height: 100px;
+    width: 707px;
+}
+h6 {
+    font-size: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
